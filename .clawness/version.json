@@ -1,0 +1,10 @@
+{
+  "version": "1.19.0",
+  "covered": [
+    "claude-code",
+    "python",
+    "science",
+    "typescript"
+  ],
+  "updated": 1793563426.1408348
+}

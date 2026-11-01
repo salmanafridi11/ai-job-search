@@ -1,0 +1,18 @@
+{
+  ".claude/agents/gemini-research-expert.md": "83866d063980a2bfd33d7d647f2280d35d620b262bc21a528fd4c419a8cea7d5",
+  ".claude/commands/add-portal.md": "18be0bc80114c9a1cba6edd01ba1f1fe886cce3cb56bd55b9cb6c57b8d14eb7f",
+  ".claude/commands/add-template.md": "1db8ac40a1661cf258deacdcb6862edf7409bf9bf5ccbdccd052333712d10d35",
+  ".claude/commands/apply.md": "869c1577ed91932814436ec85cb1f348f4251812032e74e88ffbf1d8046d16c3",
+  ".claude/commands/expand.md": "5e5dccdda221dd84c9611b250f4491d0fbacf132e6e893f54bf711f390f5ce5e",
+  ".claude/commands/gmail-sync.md": "45cb8ce56ed45dc07818b4f8112ac13b04fda47864925af72749b737ebc19af1",
+  ".claude/commands/html-report.md": "871ef136a1c8ca64e1a17efd04fd77b4d502aabb9db0221245029e7ff032bc91",
+  ".claude/commands/interview.md": "8b5c10853ed821e6935aad2992777724a9038a9824ad9c294e4283a232e89876",
+  ".claude/commands/notion-sync.md": "bf3d7ac324c0ddfa31f968f62b643581c83a17321f33893234b9a99c2ac0a4b5",
+  ".claude/commands/outcome.md": "6b7ca1a87aa23d5db3b48230cbd03ee26f4cfa074849f99c4d5efb49cef36eda",
+  ".claude/commands/rank.md": "eca1442e9aaa77ba7e16900e75272fcb9685b4b3ca3cb17eb3c3f9b437f0cadf",
+  ".claude/commands/reset.md": "9b45165936fb9469b7e7520e006ddc44b029a57507645e7606d70102f7962519",
+  ".claude/commands/setup.md": "8a1c3eb9ad02cf452148ba6a61bba941c39acc54318524e6c7ffc20b80f12fe1",
+  ".claude/skills/job-application-assistant/SKILL.md": "65a4c503303aab93127a0e45119dbe81b6721d323d1093c5a72df0fef721d7ae",
+  ".claude/skills/job-scraper/SKILL.md": "ac799732ec422d918d2f16c730772e5bdeb2d4084b213a7fba095af967cff37e",
+  ".claude/skills/upskill/SKILL.md": "55bfe432589ab06cda56a642d3ccc5553dc130297c22cac8b0274af0e18bb323"
+}
